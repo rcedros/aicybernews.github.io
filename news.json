@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "date": "2026-01-08",
+    "title": "Falha Zero-Day Crítica no Chrome afeta milhões",
+    "summary": "Google lançou patch de emergência para CVE-2026-1002. Exploração ativa detectada por grupos de APT.",
+    "severity": "CRITICA",
+    "source": "BleepingComputer",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "date": "2026-01-07",
+    "title": "Novo Ransomware ataca hospitais na Europa",
+    "summary": "Grupo BlackCat reivindica autoria. Ameaça vaza dados de pacientes se resgate não for pago.",
+    "severity": "ALTA",
+    "source": "The Hacker News",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "date": "2026-01-07",
+    "title": "Atualização de rotina do Windows Defender",
+    "summary": "Microsoft libera atualizações de definições de vírus. Nenhuma ação requerida.",
+    "severity": "BAIXA",
+    "source": "Microsoft",
+    "link": "#"
+  }
+]
